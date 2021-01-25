@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam/exam.iml" filepath="$PROJECT_DIR$/exam/exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam-sys/exam-sys.iml" filepath="$PROJECT_DIR$/exam/exam-sys/exam-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam/exam-web/exam-web.iml" filepath="$PROJECT_DIR$/exam/exam-web/exam-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/examWorkspace.iml" filepath="$PROJECT_DIR$/.idea/examWorkspace.iml" />
+    </modules>
+  </component>
+</project>
