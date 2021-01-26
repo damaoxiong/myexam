@@ -11,6 +11,7 @@
     <modules>
         <module>exam-web</module>
         <module>exam-sys</module>
+        <module>exam-data</module>
     </modules>
     <packaging>pom</packaging>
     <groupId>com</groupId>
